@@ -1,2 +1,5 @@
+# Ignore Self
+.gitignore
+
 # Ignore Kustomize files
 kustomization.yaml
